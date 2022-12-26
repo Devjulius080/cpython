@@ -197,4 +197,4 @@ class HTTPMethod:
     PATCH = 'PATCH', 'Apply partial modifications to a target.'
     POST = 'POST', 'Perform target-specific processing with the request payload.'
     PUT = 'PUT', 'Replace the target with the request payload.'
-    TRACE = 'TRACE', 'Perform a message loop-back test along the path to the target.'
+    TRACE = 'TRACE', 'Perform a message loop-back test along the path to the target.. '
